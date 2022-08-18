@@ -30,7 +30,7 @@ https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 heroku/python
 ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/FilmyFather/UPLODER-BOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 
 ## 🍃 How To Get Mongodb URI - [ Watch Video ](https://youtu.be/YIYSby2PcfU)
