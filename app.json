@@ -1,10 +1,10 @@
 {
-  "name": "Uploader X Bot",
+  "name": "FilmyFather Uploader Bot",
   "description": "Telegram Bot to Upload URLs to Telegram as File and Video.",
   "keywords": [ "URL UPLOADER"],
-  "success_url": "https://t.me/Uploader_X_bot",
-  "website": "https://github.com/Clinton-Abraham",
-  "repository": "https://github.com/Clinton-Abraham/UPLOADER-BOT",
+  "success_url": "https://t.me/FilmyFather_urluploder_bot",
+  "website": "https://github.com/FilmyFather",
+  "repository": "https://github.com/FilmyFather/UPLODER-BOT",
 
   "env": {
     "WEBHOOK": {"description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -14,13 +14,13 @@
         "value": ""},
 
     "API_ID": {"description": "Get this value from https://my.telegram.org",
-     "value": ""},
+     "value": "7588344"},
 
     "API_HASH": {"description": "Get this value from https://my.telegram.org",
-       "value": ""},
+       "value": "6ade175bcf8ea4981e3153ef48fe07f5"},
 
     "OWNER_ID": {"description": "Your Telegram ID",
-       "value": ""},
+       "value": "1564152071"},
 
     "PREMIUM_USER": {"description": "If you are a telegram premium user then set this True",
        "value": "False"},
